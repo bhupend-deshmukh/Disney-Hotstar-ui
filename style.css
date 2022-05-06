@@ -6,7 +6,6 @@ html {
 }
 /* Header bar */
 header{
-  /* position: fixed; */
   top: 0;
   z-index: 1;
   color:black;
@@ -117,3 +116,4 @@ p {
 .fb-tw :hover{
   color: steelblue;
 }
+  

@@ -1,4 +1,5 @@
 @media (max-width: 850px){
+
   .img-latest img {
     width: 25rem;
   }
@@ -32,5 +33,41 @@
   }
   .gs-img img,.as-img img{
     width: 15rem !important;
+  }
+  .header-bar{
+    font-size: 3rem;
+  } 
+}
+
+@media (max-width: 550px){
+  .img-latest img {
+    width: 35rem;
+  }
+  .sport-img img {
+    width: 55rem !important;
+  }
+  .head-t{
+    font-size: 4rem;
+  }
+  .sportor-li li{
+    font-size: 3.5rem !important;
+  }
+  .left-f p{
+    font-size: 3.5rem !important;
+  }
+  .as-head p{
+    font-size: 3.5rem !important;
+  }
+  .as-img img,.gs-img img{
+    width: 22rem !important;
+  }
+  .fb-tw ion-icon{
+    font-size: 7rem !important;
+  }
+  .slid-section img{
+    width: 50rem !important;
+  }
+  .text-content p{
+    font-size: 2.5rem !important;
   }
 }
