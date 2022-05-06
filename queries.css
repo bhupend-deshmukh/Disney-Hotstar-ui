@@ -1,0 +1,36 @@
+@media (max-width: 850px){
+  .img-latest img {
+    width: 25rem;
+  }
+  .sport-img img {
+    width: 35rem;
+  }
+  .head-t{
+    font-size: 2rem;
+  }
+  .search input{
+    width: 30rem;
+  }
+  .hot{
+    width: 16rem !important;
+  }
+  .d{
+    font-size: 4rem !important;
+  }
+  .sportor-li li{
+    font-size: 2rem !important;
+  }
+  .left-f p{
+    width: 95% !important;
+    font-size: 1.8rem;
+  }
+  .as-head p{
+    font-size: 2rem !important;
+  }
+  .fb-tw{
+    font-size: 5rem !important;
+  }
+  .gs-img img,.as-img img{
+    width: 15rem !important;
+  }
+}

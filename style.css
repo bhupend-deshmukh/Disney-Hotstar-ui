@@ -1,0 +1,119 @@
+body {
+  background-color: #121827;
+}
+html {
+  font-size: 1vw;
+}
+/* Header bar */
+header{
+  /* position: fixed; */
+  top: 0;
+  z-index: 1;
+  color:black;
+}
+.all-header{
+  z-index: 11;
+  background-color: #121827; 
+}
+.Movies {
+  color: grey;
+}
+.search img {
+  width: 2rem;
+}
+.search input{
+  width: 300px;
+}
+.search button {
+  font-size: 10px;
+}
+.head-lft,
+.d-md-block,
+.slid-section,
+.latest-trending h4 {
+  cursor: pointer;
+}
+.kids-img,
+.Movies :hover {
+  cursor: pointer;
+  color: white;
+}
+.head-lft ion-icon{
+  /* width: 500px; */
+  font-size: 20px;
+}
+.channel-language,
+.descriptions {
+  color: rgb(149, 144, 144);
+}
+.descriptions p {
+  width: 36rem;
+}
+
+.text-content {
+  margin-top: 4rem;
+  margin-left: 10rem;
+}
+
+.latest-img-container::-webkit-scrollbar {
+  display: none;
+}
+.sport-img-galary::-webkit-scrollbar {
+  display: none;
+}
+
+.img-latest {
+  cursor: pointer;
+  transition: transform 0.5s; /* Animation */
+}
+
+.img-latest:hover {
+  transform: scale(
+    1.3
+  ); 
+}
+
+.sport-img:hover {
+  transform: scale(
+    1.3
+  ); 
+}
+.logos{
+
+  cursor: pointer;
+}
+
+.sportor li,
+p {
+  font-size: 0.8rem;
+  cursor: pointer;
+  color: rgb(192, 188, 188);
+}
+
+.sportor-li :hover {
+  color: steelblue;
+}
+
+.hover-c h4:hover {
+  color: blue;
+}
+.img-latest img {
+  width: 12rem;
+}
+.sport-img img {
+  width: 15rem;
+}
+
+.gs-img,.as-img{
+  padding: .7rem 1.5rem .7rem 1.5rem;
+  border: 2px solid;
+}
+.logos :hover{
+  color: steelblue;
+}
+.as-head :hover{
+  color: steelblue;
+}
+.fb-tw :hover{
+  color: steelblue;
+}
