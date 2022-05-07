@@ -116,4 +116,14 @@ p {
 .fb-tw :hover{
   color: steelblue;
 }
-  
+
+.gener{
+  /* margin-left: auto !important; */
+  /* margin-right: auto !important; */
+  z-index: 2;
+  font-weight: 600;
+}
+.se-icon img{
+  width: 1rem;
+  /* font-size: 22rem; */
+}
