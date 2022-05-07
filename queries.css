@@ -84,13 +84,13 @@
     font-size: 2.5rem !important;
   }
   .t-content h3{
-    font-size: 4rem !important;
+    font-size: 4.5rem !important;
   }
   .t-content li{
-    font-size: 3rem;
+    font-size: 3.5rem;
   }
   .descriptions p{
-    font-size: 2.8rem;
+    font-size: 3rem;
   }
   .t-img img{
     margin-left: auto;
@@ -100,8 +100,7 @@
   .hot-s-img img{
     width: 25rem !important;
   }
- .head-lft ion-icon{
-   font-size: 6rem !important;
-   /* width: 10rem !important; */
- }
+  .head-lft ion-icon{
+    font-size: 7rem !important;
+  }
 }

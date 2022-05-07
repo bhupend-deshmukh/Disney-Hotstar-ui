@@ -96,12 +96,13 @@ p {
 .hover-c h4:hover {
   color: blue;
 }
-.img-latest img {
+
+/* .img-latest img {
   width: 12rem;
 }
 .sport-img img {
   width: 15rem;
-}
+} */
 
 .gs-img,.as-img{
   padding: .7rem 1.5rem .7rem 1.5rem;
@@ -118,12 +119,15 @@ p {
 }
 
 .gener{
-  /* margin-left: auto !important; */
-  /* margin-right: auto !important; */
   z-index: 2;
   font-weight: 600;
 }
 .se-icon img{
   width: 1rem;
-  /* font-size: 22rem; */
+}
+.kids-img{
+  margin-top: 1.8rem !important;
+}
+.s img{
+  margin-top: 1rem !important;
 }
