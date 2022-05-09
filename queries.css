@@ -103,4 +103,10 @@
   .head-lft ion-icon{
     font-size: 7rem !important;
   }
+  .container-fluid{
+    margin-top: 2rem !important;
+  }
 }
+
+
+
